@@ -19,7 +19,7 @@ body {
   }
   
   header {
-    background-image: url("/images/home_background.jpg");
+    background-image: url("/virtual-chefs/images/home_background.jpg");
     background-color: rgba(0, 0, 0, 0.4);
     height: 900px;
     background-size: cover;
@@ -130,7 +130,7 @@ body {
   }
   
   #sec2 {
-    background-image: url("/images/home_background.webp");
+    background-image: url("/virtual-chefs/images/home_background.webp");
     background-size: cover;
     z-index: 0;
     margin: 0;
